@@ -1,6 +1,5 @@
 # CVv
-<!DOCTYPE html>
-<html lang="tr">
+<html>
     <head>
         <meta charset="utf-8">
         <title>Angela's Personal Site</title>
