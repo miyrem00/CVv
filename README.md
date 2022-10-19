@@ -46,7 +46,7 @@
         </tbody>
         <tfoot>
         </tfoot> 
-      </table cellspacing="10">
+      </table>
       <hr>
         <h3>Skills</h3>
         <table>
