@@ -8,8 +8,7 @@
     <body>
       <table cellspacing="20">
         <tr>
-          <td><img src="![angela png-](https://user-images.githubusercontent.com/116215094/196805603-be3868f7-68f2-4383-a47c-17d7b3c551ae.png)
-" alt="angela profile photo"></td>
+          <td><img src="images/angela.png" alt="angela profile picture"> "alt="angela profile photo"></td>
           <td><h1>Angela Yu</h1>
             <p><em>Founder and CTO of <strong><a href="https://appbrewery.com/">The App Brewery</a></strong></em></p>
             <p><em>I am an iOS and Web Developer. I love coffee and brew my own beers.</em></p></td>
